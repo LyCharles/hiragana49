@@ -1,0 +1,1 @@
+MODEL_PATH = "C:\\Users\\Charles\\PycharmProjects\\pythonProject1\\app\\best_spinalvgg_model.pth"
